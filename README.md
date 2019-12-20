@@ -26,7 +26,7 @@ $ wget -c https://github.com/mozilla/geckodriver/releases/download/v0.26.0/gecko
 
 # Testing
 
-The test script provided shoul run Selenium via a headless Firefox and open google.com and retrieve the page's title.
+The test script provided should run Selenium via a headless Firefox and open google.com and retrieve the page's title.
 
 ```sh
 $ node selenium-test.js
