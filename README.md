@@ -4,7 +4,7 @@ This build will help with quickly getting Selenium setup and running on an AWS i
 
 # Requirements
 
-The following packages were installed on the server. You can run the [install.sh](\install.sh) script to install the following:
+The following packages were installed on the server. You can run the [install.sh](install.sh) script to install the following:
 
 | Name |Version |
 | ------ | ------ |
